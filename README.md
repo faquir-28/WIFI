@@ -8,4 +8,4 @@
 ### sudo airmon-ng start wlan0 #开始监听
 ### sudo wifite --no-wps --wpa -5 #直接进行抓包
 ### https://hashcat.net/cap2hashcat/ #转换PCAPNG，PCAP或CAP文件
-### 
+### https://hashcat.net/hashcat/ 下载hashcat binaries。https://developer.nvidia.com/cuda-downloads 下载CUDA
