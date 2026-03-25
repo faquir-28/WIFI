@@ -1,7 +1,7 @@
 # 破解WIFI密码
 
 ### VMWARE-虚拟机-连接网卡
-### sudu su
+### sudo su
 ### airmon-ng #查看网卡
 ### sudo airmon-ng check kill #关闭干扰进程
 ### sudo apt install hcxdumptool hcxtools -y #安装必要组件
