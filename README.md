@@ -12,3 +12,5 @@
 ### https://hashcat.net/cap2hashcat/ #转换PCAPNG，PCAP或CAP文件
 ### https://hashcat.net/hashcat/ 下载hashcat binaries。https://developer.nvidia.com/cuda-downloads 下载CUDA
 ### sudo rm -rf hs #删除hs文件夹
+
+VMware 17.6.4 连接：https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47320451&id=a73RvQs2C3LEwUZNy9AVXQIsHUzFbS_I94WQL20BuOcD7tHiWadP--eYd5DMlQiYqoU=&verify=1782955849-L%2Bhb2%2FXHrE4a0hsFUMxniAKoWdE8ZX0xczVAIpnH2Hg%3D
